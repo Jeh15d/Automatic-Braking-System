@@ -1,2 +1,4 @@
 # Automatic-Braking-System
-A system that will simulate an auotmatic braking system that can be seen in many new vehicles. Using(FPLDs)
+This system was designed to simulate an automatic breaking system that can be found in many newer vehicles.
+VHDL was the programming language used to create this project using the Quartus II software. 
+
